@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+// A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -27,6 +27,7 @@ public class Lab14b
 		//add more test cases
 
 		System.out.println("\n\n first 3 values greater than 8" + Arrays.toString(ArrayFunHouseTwo.getCountValuesBiggerThanX(two,3,8))  );
+		//Looking at array two. Give 3 values that are greater then 8.
 
 	}
 }
